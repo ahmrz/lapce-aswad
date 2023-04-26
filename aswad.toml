@@ -7,16 +7,16 @@ drop-shadow-width = 4
 
 [color-theme.base]
 black = "#212121"
-blue = "#5da8e6"
-cyan = "#56B6C2"
-green = "#98C379"
+blue = "#80c0ff"
+cyan = "#57d9ce"
+green = "#a6d982"
 grey = "#3E3E3E"
 magenta = "#C678DD"
-orange = "#D19A66"
-purple = "#907ee6"
-red = "#E06C75"
-white = "#BABABA"
-yellow = "#E5C07B"
+orange = "#f29f76"
+purple = "#bda1e6"
+red = "#f27997"
+white = "#CCCCCC"
+yellow = "#e6d373"
 
 [color-theme.ui]
 "activity.background" = "$black"
